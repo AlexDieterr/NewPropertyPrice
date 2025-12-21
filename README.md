@@ -67,14 +67,6 @@ The final model produces reasonable and interpretable predictions that align wit
 - matplotlib  
 - Jupyter Notebook  
 
----
-
-## Repository Structure
-
-├── data/                 # Dataset files
-├── notebooks/            # Jupyter notebooks with analysis
-├── models/               # Saved model artifacts (if applicable)
-├── README.md
 
 ---
 
